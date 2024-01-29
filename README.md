@@ -1,18 +1,21 @@
 # Ruffles, a helpful package manager
 
-### Ruffles is an in-development package manager written in Rust that aims to be quick and cross-platform, allowing for apps to be installed on Windows, MacOS or Linux
+### Ruffles is an in-development package manager written in Rust that aims to be quick and cross-platform, allowing for apps to be installed on Linux (and soon macOS and Windows)
+### Ruffles uses developer-personalised scripts to install and configure applications in the dedicated /ruffles folder.
 
 ## Features currently avaliable:
 
 - Download a script to install an app
 - Download a script to remove an app
+- Support for Linux systems
 
 ## Features that should come:
 
 - Allow app developers to create their own scripts to install their apps
 - Allow app developers to send their scripts to Ruffles repos
 - Change your script repo
-- Install apps from Flatpak and allow easy execution with the terminal
+- Install apps from Flatpak and allow easy execution with the terminal from Linux
+- Support for Windows and macOS apps
 
 ## Some advantages of using scripts:
 
