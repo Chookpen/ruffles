@@ -6,13 +6,13 @@
 ## Features currently avaliable:
 
 - Download a script to install an app
-- Download a script to remove an app
 - Support for Linux systems
 
 ## Features that should come:
 
 - Allow app developers to create their own scripts to install their apps
 - Allow app developers to send their scripts to Ruffles repos
+- Download a script to remove an app
 - Change your script repo
 - Install apps from Flatpak and allow easy execution with the terminal from Linux
 - Support for Windows and macOS apps
